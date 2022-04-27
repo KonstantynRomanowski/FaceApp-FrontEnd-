@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FaceApp-FrontEnd-/static/css/main.c2a83685.chunk.css",
+    "main.js": "/FaceApp-FrontEnd-/static/js/main.83aa0674.chunk.js",
+    "main.js.map": "/FaceApp-FrontEnd-/static/js/main.83aa0674.chunk.js.map",
+    "runtime-main.js": "/FaceApp-FrontEnd-/static/js/runtime-main.11fd285c.js",
+    "runtime-main.js.map": "/FaceApp-FrontEnd-/static/js/runtime-main.11fd285c.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/FaceApp-FrontEnd-/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.6b4a4182.chunk.js": "/FaceApp-FrontEnd-/static/js/2.6b4a4182.chunk.js",
+    "static/js/2.6b4a4182.chunk.js.map": "/FaceApp-FrontEnd-/static/js/2.6b4a4182.chunk.js.map",
+    "index.html": "/FaceApp-FrontEnd-/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/FaceApp-FrontEnd-/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.c2a83685.chunk.css.map": "/FaceApp-FrontEnd-/static/css/main.c2a83685.chunk.css.map",
+    "static/js/2.6b4a4182.chunk.js.LICENSE.txt": "/FaceApp-FrontEnd-/static/js/2.6b4a4182.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11fd285c.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.6b4a4182.chunk.js",
+    "static/css/main.c2a83685.chunk.css",
+    "static/js/main.83aa0674.chunk.js"
+  ]
+}
