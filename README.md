@@ -8,7 +8,7 @@ It's loaded with many additional features such as a "secure login system" by enc
 This is implemented using a node server and postgresql database <br />
 which is deployed on the Heroku platform. 
 
-Here's the link to the [backend repository]()
+Here's the link to the [backend repository](https://github.com/KonstantynRomanowski/-Face-recognition-app-BackEnd)
 
 ### `Smart Brain`
 Open this [link]() to view it in the browser.
