@@ -3,7 +3,7 @@
 FaceApp is a Face identification project created using React. <br />
 Here you can find the repository to its front-end part.
 
-It's loaded with many additional features such as a "secure login system" by encrypting the password into a hash format, remembering the entries count of the users (for images submitted), and displaying back the user details to the front-enn. 
+It's loaded with many additional features such as a "secure login system" by encrypting the password into a hash format, remembering the entries count of the users (for images submitted), and displaying back the user details to the front-end. 
 
 This is implemented using a node server and postgresql database <br />
 which is deployed on the [Heroku platform](https://new-smart-face-app.herokuapp.com).
