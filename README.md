@@ -6,7 +6,7 @@ Here you can find the repository to its front-end part.
 It's loaded with many additional features such as a "secure login system" by encrypting the password into a hash format, remembering the entries count of the users (for images submitted), and displaying back the user details to the front-enn. 
 
 This is implemented using a node server and postgresql database <br />
-which is deployed on the Heroku platform. 
+which is deployed on the [Heroku platform](https://new-smart-face-app.herokuapp.com).
 
 Here's the link to the [backend repository](https://github.com/KonstantynRomanowski/-Face-recognition-app-BackEnd)
 
