@@ -10,6 +10,8 @@ which is deployed on the [Heroku platform](https://new-smart-face-app.herokuapp.
 
 Here's the link to the [backend repository](https://github.com/KonstantynRomanowski/-Face-recognition-app-BackEnd).
 
+Used technologies: HTML, CSS, JS, React, NodeJS, PostgreSQL and Clarifai API.
+
 ## Available Scripts
 
 In the project directory, you can run:
